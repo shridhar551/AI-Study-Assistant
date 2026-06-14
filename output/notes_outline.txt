@@ -1,0 +1,18 @@
+OUTLINE NOTES
+==================================================
+
+• Photosynthesis Overview
+• Photosynthesis is the process by which plants, algae, and some bacteria convert light energy
+• from the sun into chemical energy stored in glucose. This process is essential for life on Earth
+• as it produces oxygen and forms the base of most food chains.
+• Key Components of Photosynthesis:
+• 1. Light Reactions (Light-Dependent Reactions)
+• - Occur in the thylakoid membrane of chloroplasts
+• - Require light energy from the sun
+• - Produce ATP and NADPH (energy carriers)
+• - Release oxygen as a byproduct
+• - Involve photosystem I and II
+• - Water molecules are split to provide electrons
+• 2. Calvin Cycle (Light-Independent Reactions)
+• - Occur in the stroma of chloroplasts
+• - Do not directly require light
